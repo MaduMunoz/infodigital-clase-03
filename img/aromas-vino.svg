@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 805 614.7" style="enable-background:new 0 0 805 614.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#CF394B;stroke-width:18.3333;}
+	.st2{fill:none;stroke:#CF394B;stroke-width:22.9167;}
+	.st3{fill:none;stroke:#C8304A;stroke-width:18.3333;}
+	.st4{fill:none;stroke:#C8304A;stroke-width:9.1667;}
+	.st5{fill:none;stroke:#B81E48;stroke-width:4.5833;}
+	.st6{fill:none;stroke:#F68650;stroke-width:9.1667;}
+	.st7{fill:none;stroke:#F68650;stroke-width:18.3333;}
+	.st8{fill:none;stroke:#E65A49;stroke-width:4.5833;}
+	.st9{fill:none;stroke:#FA9A59;stroke-width:4.5833;}
+	.st10{fill:none;stroke:#E1524A;stroke-width:4.5833;}
+	.st11{fill:none;stroke:#EB6249;stroke-width:4.5833;}
+	.st12{fill:none;stroke:#EB6249;stroke-width:18.3333;}
+	.st13{fill:none;stroke:#EB6249;stroke-width:13.75;}
+	.st14{fill:none;stroke:#DC4A4A;stroke-width:4.5833;}
+	.st15{fill:none;stroke:#C02749;stroke-width:4.5833;}
+	.st16{fill:none;stroke:#A70B44;stroke-width:4.5833;}
+	.st17{fill:none;stroke:#9E0142;stroke-width:4.5833;}
+	.st18{fill:none;stroke:#F47D4D;stroke-width:4.5833;}
+	.st19{fill:none;stroke:#EE6B49;stroke-width:4.5833;}
+	.st20{fill:none;stroke:#D6424B;stroke-width:4.5833;}
+	.st21{fill:none;stroke:#F89054;stroke-width:4.5833;}
+	.st22{fill:none;stroke:#F2744B;stroke-width:4.5833;}
+	.st23{fill:none;stroke:#AF1446;stroke-width:4.5833;}
+	.st24{fill:none;stroke:#FEE293;stroke-width:4.5833;}
+	.st25{fill:none;stroke:#4285B4;stroke-width:4.5833;}
+	.st26{fill:none;stroke:#437CB3;stroke-width:4.5833;}
+	.st27{fill:none;stroke:#63B9AA;stroke-width:4.5833;}
+	.st28{fill:none;stroke:#DFF2A0;stroke-width:4.5833;}
+	.st29{fill:none;stroke:#EBF7A6;stroke-width:4.5833;}
+	.st30{fill:none;stroke:#81CBA5;stroke-width:4.5833;}
+	.st31{fill:none;stroke:#AADDA2;stroke-width:4.5833;}
+	.st32{fill:none;stroke:#D0EC9E;stroke-width:4.5833;}
+	.st33{fill:none;stroke:#FBA35E;stroke-width:4.5833;}
+	.st34{fill:none;stroke:#4B6AAE;stroke-width:4.5833;}
+	.st35{fill:none;stroke:#C7E89F;stroke-width:4.5833;}
+	.st36{fill:none;stroke:#5AB1AD;stroke-width:4.5833;}
+	.st37{fill:none;stroke:#4673B1;stroke-width:4.5833;}
+	.st38{fill:none;stroke:#F0F8A9;stroke-width:4.5833;}
+	.st39{fill:none;stroke:#FDF5AC;stroke-width:4.5833;}
+	.st40{fill:none;stroke:#B4E1A1;stroke-width:4.5833;}
+	.st41{fill:none;stroke:#5E4FA2;stroke-width:4.5833;}
+	.st42{fill:none;stroke:#FDBE70;stroke-width:4.5833;}
+	.st43{fill:none;stroke:#FCB569;stroke-width:4.5833;}
+	.st44{fill:none;stroke:#FECE7D;stroke-width:4.5833;}
+	.st45{fill:none;stroke:#5758A6;stroke-width:4.5833;}
+	.st46{fill:none;stroke:#FED584;stroke-width:4.5833;}
+	.st47{fill:none;stroke:#4BA0B1;stroke-width:4.5833;}
+	.st48{fill:none;stroke:#FEE89A;stroke-width:4.5833;}
+	.st49{fill:none;stroke:#438FB4;stroke-width:4.5833;}
+	.st50{fill:none;stroke:#5161AA;stroke-width:4.5833;}
+	.st51{fill:none;stroke:#8BD0A5;stroke-width:4.5833;}
+	.st52{fill:none;stroke:#FCF7AF;stroke-width:4.5833;}
+	.st53{fill:none;stroke:#77C6A7;stroke-width:4.5833;}
+	.st54{fill:none;stroke:#6DBFA8;stroke-width:4.5833;}
+	.st55{fill:none;stroke:#E5F5A3;stroke-width:4.5833;}
+	.st56{fill:none;stroke:#FEDC8B;stroke-width:4.5833;}
+	.st57{fill:none;stroke:#FDC676;stroke-width:4.5833;}
+	.st58{fill:none;stroke:#BEE5A0;stroke-width:4.5833;}
+	.st59{fill:none;stroke:#96D5A4;stroke-width:4.5833;}
+	.st60{fill:none;stroke:#FEEDA1;stroke-width:4.5833;}
+	.st61{fill:none;stroke:#52A9AF;stroke-width:4.5833;}
+	.st62{fill:none;stroke:#A0D9A3;stroke-width:4.5833;}
+	.st63{fill:none;stroke:#FAF9B0;stroke-width:4.5833;}
+	.st64{fill:none;stroke:#FCAC64;stroke-width:4.5833;}
+	.st65{fill:none;stroke:#FEF1A7;stroke-width:4.5833;}
+	.st66{fill:none;stroke:#F7FAAF;stroke-width:4.5833;}
+	.st67{fill:none;stroke:#D8EF9F;stroke-width:4.5833;}
+	.st68{fill:none;stroke:#4698B3;stroke-width:4.5833;}
+	.st69{fill:none;stroke:#F4F9AD;stroke-width:4.5833;}
+	.st70{font-family:'Assistant-SemiBold';}
+	.st71{font-size:11px;}
+	.st72{fill:#7B7B7B;}
+	.st73{font-family:'Assistant-Bold';}
+	.st74{font-size:12px;}
+</style>
+<rect id="backgorund" y="14.7" class="st0" width="805" height="600"/>
+<g id="visualization" transform="translate(20,20)">
+	<g>
+		<rect x="380" y="17.2" width="5" height="4.6"/>
+		<rect x="380" y="26.8" width="5" height="4.6"/>
+		<rect x="380" y="36.4" width="5" height="4.6"/>
+		<rect x="380" y="46" width="5" height="4.6"/>
+		<rect x="380" y="55.6" width="5" height="4.6"/>
+		<rect x="380" y="65.2" width="5" height="4.6"/>
+		<rect x="380" y="74.7" width="5" height="4.6"/>
+		<rect x="380" y="84.3" width="5" height="4.6"/>
+		<rect x="380" y="93.9" width="5" height="4.6"/>
+		<rect x="380" y="103.5" width="5" height="4.6"/>
+		<rect x="380" y="113.1" width="5" height="4.6"/>
+		<rect x="380" y="122.7" width="5" height="4.6"/>
+		<rect y="87.2" width="5" height="4.6"/>
+		<rect x="380" y="132.2" width="5" height="4.6"/>
+		<rect x="380" y="141.8" width="5" height="4.6"/>
+		<rect x="380" y="151.4" width="5" height="4.6"/>
+		<rect x="380" y="161" width="5" height="4.6"/>
+		<rect x="380" y="170.6" width="5" height="4.6"/>
+		<rect x="380" y="180.2" width="5" height="4.6"/>
+		<rect x="380" y="189.7" width="5" height="4.6"/>
+		<rect x="380" y="199.3" width="5" height="4.6"/>
+		<rect y="96.8" width="5" height="4.6"/>
+		<rect x="380" y="208.9" width="5" height="4.6"/>
+		<rect y="106.4" width="5" height="4.6"/>
+		<rect x="380" y="218.5" width="5" height="4.6"/>
+		<rect x="380" y="228.1" width="5" height="4.6"/>
+		<rect x="380" y="237.7" width="5" height="4.6"/>
+		<rect x="380" y="247.2" width="5" height="4.6"/>
+		<rect x="380" y="256.8" width="5" height="4.6"/>
+		<rect y="116" width="5" height="4.6"/>
+		<rect x="380" y="266.4" width="5" height="4.6"/>
+		<rect y="125.6" width="5" height="4.6"/>
+		<rect x="380" y="276" width="5" height="4.6"/>
+		<rect y="135.2" width="5" height="4.6"/>
+		<rect x="380" y="285.6" width="5" height="4.6"/>
+		<rect x="380" y="295.2" width="5" height="4.6"/>
+		<rect x="380" y="304.7" width="5" height="4.6"/>
+		<rect x="380" y="314.3" width="5" height="4.6"/>
+		<rect x="380" y="323.9" width="5" height="4.6"/>
+		<rect x="380" y="333.5" width="5" height="4.6"/>
+		<rect x="380" y="343.1" width="5" height="4.6"/>
+		<rect y="144.7" width="5" height="4.6"/>
+		<rect x="380" y="352.7" width="5" height="4.6"/>
+		<rect x="760" y="14.7" width="5" height="4.6"/>
+		<rect x="760" y="24.3" width="5" height="4.6"/>
+		<rect x="760" y="33.9" width="5" height="4.6"/>
+		<rect x="760" y="43.5" width="5" height="4.6"/>
+		<rect x="760" y="53.1" width="5" height="4.6"/>
+		<rect x="760" y="62.7" width="5" height="4.6"/>
+		<rect x="760" y="72.2" width="5" height="4.6"/>
+		<rect x="760" y="81.8" width="5" height="4.6"/>
+		<rect x="760" y="91.4" width="5" height="4.6"/>
+		<rect x="760" y="101" width="5" height="4.6"/>
+		<rect x="760" y="110.6" width="5" height="4.6"/>
+		<rect x="760" y="120.2" width="5" height="4.6"/>
+		<rect x="760" y="129.7" width="5" height="4.6"/>
+		<rect x="760" y="139.3" width="5" height="4.6"/>
+		<rect x="760" y="148.9" width="5" height="4.6"/>
+		<rect x="760" y="158.5" width="5" height="4.6"/>
+		<rect x="760" y="168.1" width="5" height="4.6"/>
+		<rect x="760" y="177.7" width="5" height="4.6"/>
+		<rect x="760" y="187.2" width="5" height="4.6"/>
+		<rect x="760" y="196.8" width="5" height="4.6"/>
+		<rect x="760" y="206.4" width="5" height="4.6"/>
+		<rect x="760" y="216" width="5" height="4.6"/>
+		<rect x="760" y="225.6" width="5" height="4.6"/>
+		<rect x="760" y="235.2" width="5" height="4.6"/>
+		<rect x="760" y="244.7" width="5" height="4.6"/>
+		<rect x="760" y="254.3" width="5" height="4.6"/>
+		<rect x="760" y="263.9" width="5" height="4.6"/>
+		<rect x="760" y="273.5" width="5" height="4.6"/>
+		<rect x="760" y="283.1" width="5" height="4.6"/>
+		<rect x="760" y="292.7" width="5" height="4.6"/>
+		<rect x="760" y="302.2" width="5" height="4.6"/>
+		<rect x="760" y="311.8" width="5" height="4.6"/>
+		<rect x="760" y="321.4" width="5" height="4.6"/>
+		<rect x="760" y="331" width="5" height="4.6"/>
+		<rect x="760" y="340.6" width="5" height="4.6"/>
+		<rect x="760" y="350.2" width="5" height="4.6"/>
+		<rect x="760" y="359.7" width="5" height="4.6"/>
+		<rect x="760" y="369.3" width="5" height="4.6"/>
+		<rect x="760" y="378.9" width="5" height="4.6"/>
+		<rect x="760" y="388.5" width="5" height="4.6"/>
+		<rect x="760" y="398.1" width="5" height="4.6"/>
+		<rect x="760" y="407.7" width="5" height="4.6"/>
+		<rect x="760" y="417.2" width="5" height="4.6"/>
+		<rect x="760" y="426.8" width="5" height="4.6"/>
+		<rect x="760" y="436.4" width="5" height="4.6"/>
+		<rect x="760" y="446" width="5" height="4.6"/>
+		<rect x="380" y="362.2" width="5" height="9.2"/>
+		<rect x="380" y="376.4" width="5" height="9.2"/>
+		<rect x="380" y="390.6" width="5" height="9.2"/>
+		<rect y="154.3" width="5" height="9.2"/>
+		<rect y="168.5" width="5" height="9.2"/>
+		<rect y="182.7" width="5" height="9.2"/>
+		<rect y="196.8" width="5" height="13.8"/>
+		<rect x="380" y="404.7" width="5" height="13.8"/>
+		<rect x="380" y="423.5" width="5" height="18.3"/>
+		<rect x="380" y="446.8" width="5" height="18.3"/>
+		<rect x="380" y="470.2" width="5" height="18.3"/>
+		<rect x="380" y="493.5" width="5" height="18.3"/>
+		<rect y="215.6" width="5" height="18.3"/>
+		<rect y="238.9" width="5" height="18.3"/>
+		<rect x="380" y="516.8" width="5" height="22.9"/>
+		<rect x="380" y="544.7" width="5" height="27.5"/>
+		<rect y="262.2" width="5" height="27.5"/>
+		<rect y="294.7" width="5" height="41.2"/>
+		<rect y="341" width="5" height="45.8"/>
+		<rect y="391.8" width="5" height="45.8"/>
+		<rect y="442.7" width="5" height="59.6"/>
+		<rect x="760" y="455.6" width="5" height="119.2"/>
+	</g>
+	<g>
+		<g>
+			<path class="st1" d="M5,451.8c187.5,0,187.5-19.2,375-19.2"/>
+		</g>
+		<g>
+			<path class="st1" d="M5,493.1c187.5,0,187.5,70,375,70"/>
+		</g>
+		<g>
+			<path class="st2" d="M5,472.5c187.5,0,187.5,55.8,375,55.8"/>
+		</g>
+		<g>
+			<path class="st3" d="M5,271.4c187.5,0,187.5,184.6,375,184.6"/>
+		</g>
+		<g>
+			<path class="st4" d="M5,285.2c187.5,0,187.5,264.2,375,264.2"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,297c187.5,0,187.5-277.5,375-277.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,301.6c187.5,0,187.5-272.5,375-272.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,306.2c187.5,0,187.5-267.5,375-267.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,310.8c187.5,0,187.5-262.5,375-262.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,315.4c187.5,0,187.5-257.5,375-257.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,320c187.5,0,187.5-252.5,375-252.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,324.5C192.5,324.5,192.5,77,380,77"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,329.1c187.5,0,187.5-242.5,375-242.5"/>
+		</g>
+		<g>
+			<path class="st5" d="M5,333.7c187.5,0,187.5-237.5,375-237.5"/>
+		</g>
+		<g>
+			<path class="st6" d="M5,345.6c187.5,0,187.5,21.2,375,21.2"/>
+		</g>
+		<g>
+			<path class="st7" d="M5,377.7c187.5,0,187.5,101.7,375,101.7"/>
+		</g>
+		<g>
+			<path class="st6" d="M5,354.7c187.5,0,187.5,26.2,375,26.2"/>
+		</g>
+		<g>
+			<path class="st6" d="M5,363.9c187.5,0,187.5,31.2,375,31.2"/>
+		</g>
+		<g>
+			<path class="st8" d="M5,199.1c187.5,0,187.5-93.3,375-93.3"/>
+		</g>
+		<g>
+			<path class="st8" d="M5,203.7c187.5,0,187.5-88.3,375-88.3"/>
+		</g>
+		<g>
+			<path class="st8" d="M5,208.3c187.5,0,187.5-83.3,375-83.3"/>
+		</g>
+		<g>
+			<path class="st9" d="M5,89.5c187.5,0,187.5,45,375,45"/>
+		</g>
+		<g>
+			<path class="st10" d="M5,156.6c187.5,0,187.5-12.5,375-12.5"/>
+		</g>
+		<g>
+			<path class="st10" d="M5,161.2c187.5,0,187.5-7.5,375-7.5"/>
+		</g>
+		<g>
+			<path class="st11" d="M5,394.1c187.5,0,187.5-230.8,375-230.8"/>
+		</g>
+		<g>
+			<path class="st11" d="M5,398.7c187.5,0,187.5-225.8,375-225.8"/>
+		</g>
+		<g>
+			<path class="st11" d="M5,403.3c187.5,0,187.5-220.8,375-220.8"/>
+		</g>
+		<g>
+			<path class="st12" d="M5,428.5c187.5,0,187.5,74.2,375,74.2"/>
+		</g>
+		<g>
+			<path class="st13" d="M5,412.5c187.5,0,187.5-0.8,375-0.8"/>
+		</g>
+		<g>
+			<path class="st14" d="M5,170.8c187.5,0,187.5,21.2,375,21.2"/>
+		</g>
+		<g>
+			<path class="st14" d="M5,175.4c187.5,0,187.5,26.2,375,26.2"/>
+		</g>
+		<g>
+			<path class="st15" d="M5,99.1c187.5,0,187.5,112.1,375,112.1"/>
+		</g>
+		<g>
+			<path class="st16" d="M5,108.7c187.5,0,187.5,112.1,375,112.1"/>
+		</g>
+		<g>
+			<path class="st17" d="M5,217.9c187.5,0,187.5,12.5,375,12.5"/>
+		</g>
+		<g>
+			<path class="st17" d="M5,222.5c187.5,0,187.5,17.5,375,17.5"/>
+		</g>
+		<g>
+			<path class="st17" d="M5,227c187.5,0,187.5,22.5,375,22.5"/>
+		</g>
+		<g>
+			<path class="st17" d="M5,231.6c187.5,0,187.5,27.5,375,27.5"/>
+		</g>
+		<g>
+			<path class="st18" d="M5,118.3c187.5,0,187.5,150.4,375,150.4"/>
+		</g>
+		<g>
+			<path class="st19" d="M5,127.9c187.5,0,187.5,150.4,375,150.4"/>
+		</g>
+		<g>
+			<path class="st20" d="M5,137.5c187.5,0,187.5,150.4,375,150.4"/>
+		</g>
+		<g>
+			<path class="st21" d="M5,185c187.5,0,187.5,112.5,375,112.5"/>
+		</g>
+		<g>
+			<path class="st21" d="M5,189.5c187.5,0,187.5,117.5,375,117.5"/>
+		</g>
+		<g>
+			<path class="st22" d="M5,241.2c187.5,0,187.5,75.4,375,75.4"/>
+		</g>
+		<g>
+			<path class="st22" d="M5,245.8c187.5,0,187.5,80.4,375,80.4"/>
+		</g>
+		<g>
+			<path class="st22" d="M5,250.4c187.5,0,187.5,85.4,375,85.4"/>
+		</g>
+		<g>
+			<path class="st22" d="M5,255c187.5,0,187.5,90.4,375,90.4"/>
+		</g>
+		<g>
+			<path class="st23" d="M5,147C192.5,147,192.5,355,380,355"/>
+		</g>
+		<g>
+			<path class="st24" d="M385,425.8C572.5,425.8,572.5,17,760,17"/>
+		</g>
+		<g>
+			<path class="st24" d="M385,430.4c187.5,0,187.5-403.8,375-403.8"/>
+		</g>
+		<g>
+			<path class="st24" d="M385,435c187.5,0,187.5-398.8,375-398.8"/>
+		</g>
+		<g>
+			<path class="st24" d="M385,439.5c187.5,0,187.5-393.7,375-393.7"/>
+		</g>
+		<g>
+			<path class="st25" d="M385,547c187.5,0,187.5-491.7,375-491.7"/>
+		</g>
+		<g>
+			<path class="st25" d="M385,551.6C572.5,551.6,572.5,65,760,65"/>
+		</g>
+		<g>
+			<path class="st25" d="M385,556.2c187.5,0,187.5-481.7,375-481.7"/>
+		</g>
+		<g>
+			<path class="st25" d="M385,560.8c187.5,0,187.5-476.7,375-476.7"/>
+		</g>
+		<g>
+			<path class="st26" d="M385,519.1c187.5,0,187.5-425.4,375-425.4"/>
+		</g>
+		<g>
+			<path class="st26" d="M385,523.7c187.5,0,187.5-420.4,375-420.4"/>
+		</g>
+		<g>
+			<path class="st26" d="M385,528.3c187.5,0,187.5-415.4,375-415.4"/>
+		</g>
+		<g>
+			<path class="st26" d="M385,532.9c187.5,0,187.5-410.4,375-410.4"/>
+		</g>
+		<g>
+			<path class="st26" d="M385,537.5c187.5,0,187.5-405.4,375-405.4"/>
+		</g>
+		<g>
+			<path class="st27" d="M385,449.1c187.5,0,187.5-307.5,375-307.5"/>
+		</g>
+		<g>
+			<path class="st27" d="M385,453.7c187.5,0,187.5-302.5,375-302.5"/>
+		</g>
+		<g>
+			<path class="st27" d="M385,458.3c187.5,0,187.5-297.5,375-297.5"/>
+		</g>
+		<g>
+			<path class="st27" d="M385,462.9c187.5,0,187.5-292.5,375-292.5"/>
+		</g>
+		<g>
+			<path class="st25" d="M385,565.4c187.5,0,187.5-385.4,375-385.4"/>
+		</g>
+		<g>
+			<path class="st25" d="M385,570c187.5,0,187.5-380.4,375-380.4"/>
+		</g>
+		<g>
+			<path class="st28" d="M385,19.5c187.5,0,187.5,438.3,375,438.3"/>
+		</g>
+		<g>
+			<path class="st29" d="M385,29.1c187.5,0,187.5,433.3,375,433.3"/>
+		</g>
+		<g>
+			<path class="st30" d="M385,38.7C572.5,38.7,572.5,467,760,467"/>
+		</g>
+		<g>
+			<path class="st31" d="M385,48.3c187.5,0,187.5,423.3,375,423.3"/>
+		</g>
+		<g>
+			<path class="st32" d="M385,57.9c187.5,0,187.5,418.3,375,418.3"/>
+		</g>
+		<g>
+			<path class="st33" d="M385,67.5c187.5,0,187.5,413.3,375,413.3"/>
+		</g>
+		<g>
+			<path class="st34" d="M385,77c187.5,0,187.5,408.3,375,408.3"/>
+		</g>
+		<g>
+			<path class="st35" d="M385,86.6C572.5,86.6,572.5,490,760,490"/>
+		</g>
+		<g>
+			<path class="st36" d="M385,96.2c187.5,0,187.5,398.3,375,398.3"/>
+		</g>
+		<g>
+			<path class="st37" d="M385,364.5c187.5,0,187.5-165.4,375-165.4"/>
+		</g>
+		<g>
+			<path class="st37" d="M385,369.1c187.5,0,187.5-160.4,375-160.4"/>
+		</g>
+		<g>
+			<path class="st38" d="M385,472.5c187.5,0,187.5-254.2,375-254.2"/>
+		</g>
+		<g>
+			<path class="st38" d="M385,477c187.5,0,187.5-249.2,375-249.2"/>
+		</g>
+		<g>
+			<path class="st38" d="M385,481.6c187.5,0,187.5-244.2,375-244.2"/>
+		</g>
+		<g>
+			<path class="st38" d="M385,486.2c187.5,0,187.5-239.2,375-239.2"/>
+		</g>
+		<g>
+			<path class="st39" d="M385,378.7c187.5,0,187.5-122.1,375-122.1"/>
+		</g>
+		<g>
+			<path class="st39" d="M385,383.3c187.5,0,187.5-117.1,375-117.1"/>
+		</g>
+		<g>
+			<path class="st40" d="M385,392.9c187.5,0,187.5-117.1,375-117.1"/>
+		</g>
+		<g>
+			<path class="st40" d="M385,397.5c187.5,0,187.5-112.1,375-112.1"/>
+		</g>
+		<g>
+			<path class="st41" d="M385,105.8c187.5,0,187.5,189.2,375,189.2"/>
+		</g>
+		<g>
+			<path class="st42" d="M385,115.4c187.5,0,187.5,189.2,375,189.2"/>
+		</g>
+		<g>
+			<path class="st43" d="M385,125c187.5,0,187.5,189.2,375,189.2"/>
+		</g>
+		<g>
+			<path class="st44" d="M385,134.5c187.5,0,187.5,364.6,375,364.6"/>
+		</g>
+		<g>
+			<path class="st45" d="M385,144.1c187.5,0,187.5,359.6,375,359.6"/>
+		</g>
+		<g>
+			<path class="st46" d="M385,153.7c187.5,0,187.5,354.6,375,354.6"/>
+		</g>
+		<g>
+			<path class="st47" d="M385,163.3c187.5,0,187.5,349.6,375,349.6"/>
+		</g>
+		<g>
+			<path class="st48" d="M385,172.9c187.5,0,187.5,344.6,375,344.6"/>
+		</g>
+		<g>
+			<path class="st49" d="M385,182.5c187.5,0,187.5,339.6,375,339.6"/>
+		</g>
+		<g>
+			<path class="st50" d="M385,495.8c187.5,0,187.5-172.1,375-172.1"/>
+		</g>
+		<g>
+			<path class="st50" d="M385,500.4c187.5,0,187.5-167.1,375-167.1"/>
+		</g>
+		<g>
+			<path class="st50" d="M385,505c187.5,0,187.5-162.1,375-162.1"/>
+		</g>
+		<g>
+			<path class="st50" d="M385,509.5c187.5,0,187.5-157.1,375-157.1"/>
+		</g>
+		<g>
+			<path class="st51" d="M385,407c187.5,0,187.5-45,375-45"/>
+		</g>
+		<g>
+			<path class="st51" d="M385,411.6c187.5,0,187.5-40,375-40"/>
+		</g>
+		<g>
+			<path class="st51" d="M385,416.2c187.5,0,187.5-35,375-35"/>
+		</g>
+		<g>
+			<path class="st52" d="M385,192c187.5,0,187.5,334.6,375,334.6"/>
+		</g>
+		<g>
+			<path class="st53" d="M385,201.6c187.5,0,187.5,329.6,375,329.6"/>
+		</g>
+		<g>
+			<path class="st54" d="M385,211.2c187.5,0,187.5,324.6,375,324.6"/>
+		</g>
+		<g>
+			<path class="st55" d="M385,220.8c187.5,0,187.5,319.6,375,319.6"/>
+		</g>
+		<g>
+			<path class="st56" d="M385,230.4c187.5,0,187.5,314.6,375,314.6"/>
+		</g>
+		<g>
+			<path class="st57" d="M385,240c187.5,0,187.5,309.6,375,309.6"/>
+		</g>
+		<g>
+			<path class="st58" d="M385,249.5c187.5,0,187.5,304.6,375,304.6"/>
+		</g>
+		<g>
+			<path class="st59" d="M385,259.1c187.5,0,187.5,299.6,375,299.6"/>
+		</g>
+		<g>
+			<path class="st60" d="M385,268.7c187.5,0,187.5,294.6,375,294.6"/>
+		</g>
+		<g>
+			<path class="st61" d="M385,278.3c187.5,0,187.5,289.6,375,289.6"/>
+		</g>
+		<g>
+			<path class="st62" d="M385,287.9c187.5,0,187.5,284.6,375,284.6"/>
+		</g>
+		<g>
+			<path class="st63" d="M385,297.5c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+		<g>
+			<path class="st64" d="M385,307c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+		<g>
+			<path class="st65" d="M385,316.6c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+		<g>
+			<path class="st66" d="M385,326.2c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+		<g>
+			<path class="st67" d="M385,335.8c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+		<g>
+			<path class="st68" d="M385,345.4c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+		<g>
+			<path class="st69" d="M385,355c187.5,0,187.5,93.3,375,93.3"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 389 19.0223)" class="st70 st71">Honeysuckle</text>
+		<text transform="matrix(1 0 0 1 389 28.6057)" class="st70 st71">Hawthorn</text>
+		<text transform="matrix(1 0 0 1 389 38.189)" class="st70 st71">Orange Blossom</text>
+		<text transform="matrix(1 0 0 1 389 47.7723)" class="st70 st71">Linden</text>
+		<text transform="matrix(1 0 0 1 389 57.3557)" class="st70 st71">Jasmine</text>
+		<text transform="matrix(1 0 0 1 389 66.939)" class="st70 st71">Acacia</text>
+		<text transform="matrix(1 0 0 1 389 76.5223)" class="st70 st71">Violet</text>
+		<text transform="matrix(1 0 0 1 389 86.1057)" class="st70 st71">Lavender</text>
+		<text transform="matrix(1 0 0 1 389 95.689)" class="st70 st71">Rose</text>
+		<text transform="matrix(1 0 0 1 389 105.2723)" class="st70 st71">Young White Wine</text>
+		<text transform="matrix(1 0 0 1 389 114.8557)" class="st70 st71">Aged White Wine</text>
+		<text transform="matrix(1 0 0 1 389 124.439)" class="st70 st71">Aged Red Wine</text>
+		<text transform="matrix(1 0 0 1 9 89.0223)" class="st70 st71">Yeast</text>
+		<text transform="matrix(1 0 0 1 389 134.0223)" class="st70 st71">Bread</text>
+		<text transform="matrix(1 0 0 1 389 143.6057)" class="st70 st71">Yoghurt</text>
+		<text transform="matrix(1 0 0 1 389 153.189)" class="st70 st71">Butter</text>
+		<text transform="matrix(1 0 0 1 389 162.7724)" class="st70 st71">Smoked</text>
+		<text transform="matrix(1 0 0 1 389 172.3557)" class="st70 st71">Coffee</text>
+		<text transform="matrix(1 0 0 1 389 181.939)" class="st70 st71">Toast</text>
+		<text transform="matrix(1 0 0 1 389 191.5224)" class="st70 st71">Dry Apricot</text>
+		<text transform="matrix(1 0 0 1 389 201.1057)" class="st70 st71">Orange Peel</text>
+		<text transform="matrix(1 0 0 1 9 98.6057)" class="st70 st71">Fortified Wine</text>
+		<text transform="matrix(1 0 0 1 389 210.689)" class="st70 st71">Prune</text>
+		<text transform="matrix(1 0 0 1 9 108.189)" class="st70 st71">Aged White Wine</text>
+		<text transform="matrix(1 0 0 1 389 220.2724)" class="st70 st71">Honey</text>
+		<text transform="matrix(1 0 0 1 389 229.8557)" class="st70 st71">Chocolate</text>
+		<text transform="matrix(1 0 0 1 389 239.439)" class="st70 st71">Animal</text>
+		<text transform="matrix(1 0 0 1 389 249.0224)" class="st70 st71">Leather</text>
+		<text transform="matrix(1 0 0 1 389 258.6057)" class="st70 st71">Musk</text>
+		<text transform="matrix(1 0 0 1 9 117.7723)" class="st70 st71">Trichloroanisole</text>
+		<text transform="matrix(1 0 0 1 389 268.189)" class="st70 st71">Corked</text>
+		<text transform="matrix(1 0 0 1 9 127.3557)" class="st70 st71">Oxygen</text>
+		<text transform="matrix(1 0 0 1 389 277.7723)" class="st70 st71">Sherry</text>
+		<text transform="matrix(1 0 0 1 9 136.939)" class="st70 st71">Heat</text>
+		<text transform="matrix(1 0 0 1 389 287.3557)" class="st70 st71">Madeira</text>
+		<text transform="matrix(1 0 0 1 389 296.939)" class="st70 st71">Ethyl Acetate</text>
+		<text transform="matrix(1 0 0 1 389 306.5223)" class="st70 st71">Acetic Acid</text>
+		<text transform="matrix(1 0 0 1 389 316.1057)" class="st70 st71">Dimethyl Sulfide</text>
+		<text transform="matrix(1 0 0 1 389 325.689)" class="st70 st71">Ethyl Mercaptan</text>
+		<text transform="matrix(1 0 0 1 389 335.2723)" class="st70 st71">Hudrogen Sulfide</text>
+		<text transform="matrix(1 0 0 1 389 344.8557)" class="st70 st71">Sulfer Dioxide</text>
+		<text transform="matrix(1 0 0 1 9 146.5224)" class="st70 st71">Brett</text>
+		<text transform="matrix(1 0 0 1 389 354.439)" class="st70 st71">Ethyl-phenol</text>
+		<text transform="matrix(1 0 0 1 707.6602 16.5223)" class="st70 st71">Grapefruit</text>
+		<text transform="matrix(1 0 0 1 723.2217 26.1057)" class="st70 st71">Lemon</text>
+		<text transform="matrix(1 0 0 1 732.6602 35.689)" class="st70 st71">Lime</text>
+		<text transform="matrix(1 0 0 1 705.9902 45.2723)" class="st70 st71">Mandarine</text>
+		<text transform="matrix(1 0 0 1 734.3154 54.8557)" class="st70 st71">Pear</text>
+		<text transform="matrix(1 0 0 1 728.2217 64.439)" class="st70 st71">Apple</text>
+		<text transform="matrix(1 0 0 1 696.9131 74.0223)" class="st70 st71">Green Apple</text>
+		<text transform="matrix(1 0 0 1 726.5371 83.6057)" class="st70 st71">Peach</text>
+		<text transform="matrix(1 0 0 1 727.1133 93.189)" class="st70 st71">Melon</text>
+		<text transform="matrix(1 0 0 1 725.4287 102.7723)" class="st70 st71">Guava</text>
+		<text transform="matrix(1 0 0 1 708.7637 112.3557)" class="st70 st71">Pineapple</text>
+		<text transform="matrix(1 0 0 1 692.6553 121.939)" class="st70 st71">Passion Fruit</text>
+		<text transform="matrix(1 0 0 1 721.9082 131.5223)" class="st70 st71">Lychee</text>
+		<text transform="matrix(1 0 0 1 702.6553 141.1057)" class="st70 st71">Redcurrant</text>
+		<text transform="matrix(1 0 0 1 694.8623 150.689)" class="st70 st71">Blackcurrant</text>
+		<text transform="matrix(1 0 0 1 703.7539 160.2724)" class="st70 st71">Strawberry</text>
+		<text transform="matrix(1 0 0 1 704.3008 169.8557)" class="st70 st71">Blackberry</text>
+		<text transform="matrix(1 0 0 1 723.7637 179.439)" class="st70 st71">Cherry</text>
+		<text transform="matrix(1 0 0 1 731.5518 189.0224)" class="st70 st71">Plum</text>
+		<text transform="matrix(1 0 0 1 690.4189 198.6057)" class="st70 st71">Green Pepper</text>
+		<text transform="matrix(1 0 0 1 720.6338 208.189)" class="st70 st71">Tomato</text>
+		<text transform="matrix(1 0 0 1 708.207 217.7724)" class="st70 st71">Cut Grass</text>
+		<text transform="matrix(1 0 0 1 740.4434 227.3557)" class="st70 st71">Dill</text>
+		<text transform="matrix(1 0 0 1 723.7686 236.939)" class="st70 st71">Thyme</text>
+		<text transform="matrix(1 0 0 1 735.4531 246.5224)" class="st70 st71">Mint</text>
+		<text transform="matrix(1 0 0 1 716.1709 256.1057)" class="st70 st71">Tabacco</text>
+		<text transform="matrix(1 0 0 1 737.6553 265.689)" class="st70 st71">Hay</text>
+		<text transform="matrix(1 0 0 1 671.5225 275.2723)" class="st70 st71">Blackcurrant Leaf</text>
+		<text transform="matrix(1 0 0 1 702.6504 284.8557)" class="st70 st71">Eucalyptus</text>
+		<text transform="matrix(1 0 0 1 734.8965 294.439)" class="st70 st71">Flint</text>
+		<text transform="matrix(1 0 0 1 710.4238 304.0223)" class="st70 st71">Kerosene</text>
+		<text transform="matrix(1 0 0 1 741.1807 313.6057)" class="st70 st71">Tar</text>
+		<text transform="matrix(1 0 0 1 734.8818 323.189)" class="st70 st71">Pine</text>
+		<text transform="matrix(1 0 0 1 727.6553 332.7723)" class="st70 st71">Cedar</text>
+		<text transform="matrix(1 0 0 1 697.1084 342.3557)" class="st70 st71">Sandalwood</text>
+		<text transform="matrix(1 0 0 1 737.0986 351.939)" class="st70 st71">Oak</text>
+		<text transform="matrix(1 0 0 1 718.7832 361.5223)" class="st70 st71">Almond</text>
+		<text transform="matrix(1 0 0 1 714.3301 371.1057)" class="st70 st71">Hazelnut</text>
+		<text transform="matrix(1 0 0 1 715.4531 380.689)" class="st70 st71">Coconut</text>
+		<text transform="matrix(1 0 0 1 659.3008 390.2723)" class="st70 st71">Nail Polish Remover</text>
+		<text transform="matrix(1 0 0 1 719.501 399.8557)" class="st70 st71">Vinegar</text>
+		<text transform="matrix(1 0 0 1 700.9902 409.439)" class="st70 st71">Sweet Corn</text>
+		<text transform="matrix(1 0 0 1 727.1182 419.0223)" class="st70 st71">Onion</text>
+		<text transform="matrix(1 0 0 1 702.6748 428.6057)" class="st70 st71">Rotten Egg</text>
+		<text transform="matrix(1 0 0 1 721 438.189)" class="st70 st71">Rubber</text>
+		<text transform="matrix(1 0 0 1 694.8916 447.7723)" class="st70 st71">Old band-aid</text>
+		<text transform="matrix(1 0 0 1 389 366.314)" class="st70 st71">Vegetables</text>
+		<text transform="matrix(1 0 0 1 389 380.4807)" class="st70 st71">Dried Herbs</text>
+		<text transform="matrix(1 0 0 1 389 394.6473)" class="st70 st71">Leaves</text>
+		<text transform="matrix(1 0 0 1 9 158.3974)" class="st70 st71">Malolactic Fermentation</text>
+		<text transform="matrix(1 0 0 1 9 172.564)" class="st70 st71">Late Harvest / Botrytis</text>
+		<text transform="matrix(1 0 0 1 9 186.7307)" class="st70 st71">Volatile Acidity</text>
+		<text transform="matrix(1 0 0 1 9 203.189)" class="st70 st71">Mineral</text>
+		<text transform="matrix(1 0 0 1 389 411.1057)" class="st70 st71">Nuts</text>
+		<text transform="matrix(1 0 0 1 389 432.1473)" class="st70 st71">Citrus</text>
+		<text transform="matrix(1 0 0 1 389 455.4807)" class="st70 st71">Red Berries</text>
+		<text transform="matrix(1 0 0 1 389 478.814)" class="st70 st71">Fresh Herbs</text>
+		<text transform="matrix(1 0 0 1 389 502.1473)" class="st70 st71">Woods</text>
+		<text transform="matrix(1 0 0 1 9 224.2307)" class="st70 st71">Aged Red Wine</text>
+		<text transform="matrix(1 0 0 1 9 247.564)" class="st70 st71">Sulfides</text>
+		<text transform="matrix(1 0 0 1 389 527.7723)" class="st70 st71">Tropical Fruits</text>
+		<text transform="matrix(1 0 0 1 389 557.9807)" class="st70 st71">Tree Fruits</text>
+		<text transform="matrix(1 0 0 1 9 275.4807)" class="st70 st71">Fruits Red Wine</text>
+		<text transform="matrix(1 0 0 1 9 314.8557)" class="st70 st71">Floral</text>
+		<text transform="matrix(1 0 0 1 9 363.3973)" class="st70 st71">Vegetal</text>
+		<text transform="matrix(1 0 0 1 9 414.2307)" class="st70 st71">Oak Aging</text>
+		<text transform="matrix(1 0 0 1 9 471.939)" class="st70 st71">Fruits White Wine</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 389.77 -0.5611)" class="st72 st73 st74">Type</text>
+		<text transform="matrix(1 0 0 1 1.499 71.939)" class="st72 st73 st74">Category</text>
+		<text transform="matrix(1 0 0 1 717.3912 -0.561)" class="st72 st73 st74">Aroma</text>
+	</g>
+</g>
+</svg>
